@@ -7,5 +7,7 @@ This app allows to register every update and delete actions in feed items. The c
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
+
 Post Install actions:
 - Enable the tab "Log Feed" for each user (using profile ou permissions sets)
+- Add the tab for any Application, for example, Salesforce Chatter.
