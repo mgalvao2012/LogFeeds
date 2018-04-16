@@ -1,6 +1,6 @@
 # LogFeeds
 
-This app allows to register every update and delete actions in feed items. The customer object (Log_Feed__c) is created to save these information.
+This app allows to register every update and delete action executed in feed items. The customer object (Log_Feed__c) is created to save these information.
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=mgalvao2012&repo=LogFeeds&ref=master">
   <img alt="Deploy to Salesforce"
