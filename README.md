@@ -10,4 +10,5 @@ This app allows to register every update and delete action executed in feed item
 
 Post Install actions:
 - Enable the tab "Log Feed" for each user (using profile ou permissions sets)
+- Enable the right field permission for the fields Log_Feed__c.Actual_Content__c and Log_Feed__c.Previous_Content__c 
 - Add the tab for any Application, for example, Salesforce Chatter.
