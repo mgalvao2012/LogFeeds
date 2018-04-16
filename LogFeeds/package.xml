@@ -20,5 +20,9 @@
         <members>Log_Feed__c</members>
         <name>CustomTab</name>
     </types>
+    <types>
+        <members>Log_Feed__c-Default</members>
+        <name>Layout</name>
+    </types>
     <version>41.0</version>
 </Package>
